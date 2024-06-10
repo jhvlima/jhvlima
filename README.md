@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhvlima
 - 👀 I’m interested in NLP specially NER 
-- 🌱 I’m currently learning C, Shell, Python, R and data structures
+- 🌱 I’m currently learning SwiftUi, C, Shell, Python, R and data structures
 - 📫 How to reach me joao.h.lima@edu.ufes.br
 
 <!---
